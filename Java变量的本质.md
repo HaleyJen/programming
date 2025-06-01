@@ -37,7 +37,6 @@
 
 附：变量初始值
 
+![image](https://github.com/user-attachments/assets/18ac9b66-ffe8-495f-86b3-f182e9766279)
 
-
-![image.png|661](https://i-blog.csdnimg.cn/img_convert/777e704297c2be3ed06b7fd47460020f.png)
 
