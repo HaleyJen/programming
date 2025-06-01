@@ -36,7 +36,15 @@
   - 好处：1）减少重复；2）方便改；3）提高可读性。
 
 附：变量初始值
-
-![image](https://github.com/user-attachments/assets/18ac9b66-ffe8-495f-86b3-f182e9766279)
-
+| 数据类型      | 默认初始值           |
+| --------- | --------------- |
+| `byte`    | `0`             |
+| `short`   | `0`             |
+| `int`     | `0`             |
+| `long`    | `0L`            |
+| `float`   | `0.0f`          |
+| `double`  | `0.0d`          |
+| `char`    | `'\u0000'`（空字符） |
+| `boolean` | `false`         |
+| 引用类型      | `null`          |
 
